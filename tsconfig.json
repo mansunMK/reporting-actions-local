@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+        "useDefineForClassFields": true,
+        "module": "ESNext",
+        "lib": ["ESNext", "DOM"],
+        "resolveJsonModule": true,
+        "noEmit": true,
+        "noImplicitReturns": true,
+        "declaration": true,
+        "esModuleInterop": true,
+        "moduleResolution": "node",
+        "sourceMap": true,
+        "strict": true,
+        "target": "esnext"
+    },
+    "include": ["src"]
+}
